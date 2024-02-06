@@ -43,7 +43,7 @@ theme: jekyll-theme-chirpy
 lang: en
 tagline: A text-focused Jekyll theme
 description: A minimal, responsive and feature-rich Jekyll theme for technical writing.
-url: ''
+url: 
 github:
   username: github_username
 twitter:
@@ -85,7 +85,7 @@ assets:
 pwa:
   enabled: true
 paginate: 10
-baseurl: ''
+baseurl: 
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
