@@ -3,6 +3,8 @@ title: Farwalker3's Blog
 tagline: A personal blog and portfolio
 description: Personal blog and portfolio site
 url: "https://farwalker3.github.io"
+baseurl: ""  # Empty for username.github.io sites
+
 github:
   username: farwalker3
 social:
